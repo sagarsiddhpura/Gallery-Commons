@@ -4,7 +4,7 @@ apply plugin: 'com.jfrog.bintray'
 def siteUrl = 'https://github.com/sagarsiddhpura/Simple-Commons'
 def gitUrl = 'https://github.com/sagarsiddhpura/Simple-Commons.git'
 group = "com.siddworks.simplecommons"
-version = 4.7.5
+version = 1
 
 install {
     repositories.mavenInstaller {
